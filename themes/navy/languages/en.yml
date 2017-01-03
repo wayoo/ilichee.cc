@@ -6,6 +6,7 @@ menu:
   themes: Themes
   search: Search
   bbs: BBS
+  github: Github
 
 index:
   get_started: Get started

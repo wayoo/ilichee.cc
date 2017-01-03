@@ -1,6 +1,7 @@
 docs: /docs/
 api: /api/
 news: /news/
-plugins: /plugins/
-themes: /themes/
+# plugins: /plugins/
+# themes: /themes/
 bbs: http://bbs.ilichee.cc
+github: https://github.com/Zepan/ilichee

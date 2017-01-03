@@ -6,6 +6,7 @@ menu:
   themes: 主题
   search: 搜索
   bbs: 论坛
+  github: Github
 
 index:
   get_started: 开始使用
