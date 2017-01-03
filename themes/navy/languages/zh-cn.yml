@@ -5,6 +5,7 @@ menu:
   plugins: 插件
   themes: 主题
   search: 搜索
+  bbs: 论坛
 
 index:
   get_started: 开始使用

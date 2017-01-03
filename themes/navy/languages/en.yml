@@ -5,6 +5,7 @@ menu:
   plugins: Plugins
   themes: Themes
   search: Search
+  bbs: BBS
 
 index:
   get_started: Get started
